@@ -5,6 +5,7 @@ description: Examples of student work for an assignment to create a work in a pu
   absent, or which bears witness to a past event.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-302-bsad-foundations-in-the-visual-arts-fall-2003/f2986dc6011932679c862bd0d8340275_foundmid.pdf
 file_type: application/pdf
+parent_uid: a67f5ffc-0769-f081-22c9-02fcce6bb66e
 resourcetype: Document
 title: Made Public
 uid: f2986dc6-0119-3267-9c86-2bd0d8340275
